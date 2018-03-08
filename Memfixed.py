@@ -72,7 +72,7 @@ while True:
     print('')
     try:
         flush = '\x00\x00\x00\x00\x00\x01\x00\x00flush_all\r\n'
-        shutdown = '\x00\x00\x00\x00\x00\x01\x00\x00flush_all\r\n'
+        shutdown = '\x00\x00\x00\x00\x00\x01\x00\x00shutdown\r\n'
         saveme = 'n'
         query = 'n'
 
