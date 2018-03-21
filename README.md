@@ -1,7 +1,7 @@
 # MEMFIXED DDOS MITIGATION TOOL
 
 * Author: [@037](https://twitter.com/037)
-* Credits to [@dormando](https://twitter.com/dormando) fot the killswitch
+* Credits to [@dormando](https://twitter.com/dormando) for the killswitch
 
 This tool allows you to shutdown/flush vulnerable Memcached servers obtained from Shodan.io
 
